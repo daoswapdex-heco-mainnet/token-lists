@@ -27,7 +27,7 @@
       "symbol": "DST",
       "decimals": 18,
       "logoURI": "https://test.app.heco.daoswap.cc/daoswap.svg"
-    }, 
+    },
     {
       "chainId": 256,
       "address": "0xd2f169c79553654452a3889b210AEeF494eB2374",
