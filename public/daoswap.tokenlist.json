@@ -2,7 +2,7 @@
   "name": "Daoswap",
   "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg",
   "keywords": ["defi", "doi"],
-  "timestamp": "2021-09-30T01:40:34.305Z",
+  "timestamp": "2021-12-26T17:42:34.305Z",
   "tokens": [
     {
       "chainId": 128,
@@ -155,7 +155,23 @@
       "symbol": "AXS",
       "decimals": 18,
       "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 128,
+      "address": "0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3",
+      "name": "Heco-Peg HDOT Token",
+      "symbol": "HDOT",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 128,
+      "address": "0x9e004545c59D359F6B7BFB06a26390b087717b42",
+      "name": "Heco-Peg LINK Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
     }
   ],
-  "version": { "major": 0, "minor": 0, "patch": 9 }
+  "version": { "major": 0, "minor": 1, "patch": 0 }
 }
