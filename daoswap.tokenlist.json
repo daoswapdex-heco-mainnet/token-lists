@@ -2,7 +2,7 @@
   "name": "Daoswap",
   "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg",
   "keywords": ["defi", "doi"],
-  "timestamp": "2021-12-26T17:42:34.305Z",
+  "timestamp": "2022-01-11T18:42:34.305Z",
   "tokens": [
     {
       "chainId": 128,
@@ -171,7 +171,15 @@
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 128,
+      "address": "0x8d106c0F502D1C15E706A6d5e1d9913072e26ED4",
+      "name": "FSS",
+      "symbol": "FSS",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
     }
   ],
-  "version": { "major": 0, "minor": 1, "patch": 0 }
+  "version": { "major": 0, "minor": 1, "patch": 1 }
 }
