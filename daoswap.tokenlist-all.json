@@ -1,9 +1,49 @@
 {
   "name": "Daoswap",
-  "logoURI": "https://test.app.heco.daoswap.cc/daoswap.svg",
+  "logoURI": "https://app.daoswap.cc/daoswap.svg",
   "keywords": ["defi", "doi"],
-  "timestamp": "2021-04-15T01:40:34.305Z",
+  "timestamp": "2022-03-02T01:40:34.305Z",
   "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xc096332CAacF00319703558988aD03eC6586e704",
+      "name": "Daoswap",
+      "symbol": "DAO",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "name": "Binance-Peg Ethereum Token",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "name": "Binance-Peg USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Binance-Peg BSC-USD",
+      "symbol": "BSC-USD",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "name": "Binance-Peg Dai Token",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://tokenlists.heco.daoswap.cc/daoswap.svg"
+    },
     {
       "chainId": 97,
       "address": "0xdb5D970F03bfD19c1E51D57BcEd114BC35A0808f",
